@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@300&display=swap');
+
+body{
+	background-color: #fc7349;
+	font-family: Arial;
+	color: 
+}
+
+#anaresim {
+	width: 150px;
+}
+
+.mavi-buyuk-yazi{
+	color: #1d333b;
+	font-size: 24px;
+}
+
+h1{
+	font-family: 'Bellota', cursive;
+}
+
+section{
+	margin: 16px;
+	border: 1px solid white;
+	padding: 32px;
+}
